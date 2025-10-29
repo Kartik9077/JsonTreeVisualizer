@@ -1,6 +1,6 @@
 # 🌳 JSON Tree Visualizer
 
-A web-based tool built with **React**& **HTML** that allows you to visualize complex JSON data as an **interactive, expandable tree structure**. It helps developers, data analysts, and API testers understand deeply nested JSON files with ease.it was made under APIWIZ assignment by Kartik sharma
+A web-based tool built with **React**& **HTML** that allows you to visualize complex JSON data as an **interactive, expandable tree structure**. It helps developers, data analysts, and API testers understand deeply nested JSON files with ease. It was made under **APIWIZ** assignment by Kartik sharma
 
 ---
 
