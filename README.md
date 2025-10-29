@@ -18,8 +18,8 @@ A web-based tool built with **React** that allows you to visualize complex JSON 
 - 🧩 **Error Detection:** Detects invalid JSON and displays helpful error messages.
 - 🎨 **Clean UI:** Simple, modern design for clarity and focus.
 - 📱 **Responsive Design:** Works seamlessly on desktop and mobile.
-- 🔦 **Dark mode/Light mode
-- **Zoomin/ZoomOut
+- 🔦 **Dark mode/Light mode**
+- **Zoomin/ZoomOut**
 
 ---
 
