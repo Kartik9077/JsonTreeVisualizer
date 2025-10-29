@@ -18,14 +18,16 @@ A web-based tool built with **React** that allows you to visualize complex JSON 
 - 🧩 **Error Detection:** Detects invalid JSON and displays helpful error messages.
 - 🎨 **Clean UI:** Simple, modern design for clarity and focus.
 - 📱 **Responsive Design:** Works seamlessly on desktop and mobile.
+- 🔦 **Dark mode/Light mode
+- **Zoomin/ZoomOut
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (Create React App)
-- **Language:** JavaScript (ES6+)
-- **Styling:** CSS3 / Bootstrap
+- **Frontend:** React | HTML5
+- **Language:** JavaScript
+- **Styling:** CSS3 
 - **Deployment:** Netlify
 
 ---
