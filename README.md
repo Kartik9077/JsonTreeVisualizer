@@ -30,9 +30,3 @@ A web-based tool built with **React** that allows you to visualize complex JSON 
 
 ---
 
-## 🧰 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-username>/JsonTreeVisualizer.git
-   cd JsonTreeVisualizer/frontend
